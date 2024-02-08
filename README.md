@@ -15,3 +15,6 @@ We will investigate the findings of this multi-year survey through the lens of h
 - Do they feel that mental health is valued in their workplace? 
 
 Please reference Requirements.txt for packages used, and required versions
+
+### Relevant Datasets
+- This project uses the [Mental Health in the Tech Industry](https://www.kaggle.com/datasets/anth7310/mental-health-in-the-tech-industry) Kaggle dataset. This data file has been attached here as mental_health.sqlite for convenience. 
